@@ -1,0 +1,31 @@
+ID,customer_ID,title,urgency_code,status_code
+3b23bb4b-4ac7-4a24-ac02-aa10cabd842c,1004155,Inverter not functional,H,C
+3a4ede72-244a-4f5f-8efa-b17e032d01ee,1004161,No current on a sunny day,H,N
+3ccf474c-3881-44b7-99fb-59a2a4668418,1004161,Strange noise when switching off Inverter,M,N
+3583f982-d7df-4aad-ab26-301d4a157cd7,1004100,Solar panel broken,H,I
+inc001,1004101,Battery not charging,H,N
+inc002,1004102,Display flickering on control unit,M,C
+inc003,1004103,Unexpected shutdown during peak hours,H,I
+inc004,1004104,Low voltage detected,L,C
+inc005,1004105,Overheating warning triggered,H,N
+inc006,1004106,Communication error with grid,M,I
+inc007,1004107,Inverter restart loop,H,C
+inc008,1004108,Panel misalignment detected,M,N
+inc009,1004109,Energy output below expected,L,I
+inc010,1004110,Frequent disconnections from monitoring app,M,N
+inc011,1004111,Error code 503 on startup,H,C
+inc012,1004112,No data logging since last update,M,N
+inc013,1004113,Unusual vibration in housing,M,I
+inc014,1004114,Remote access failure,H,N
+inc015,1004115,Incorrect time sync on device,L,C
+inc016,1004116,Power surge recorded,H,I
+inc017,1004117,Cloud sync not working,M,N
+inc018,1004118,Panel surface damage detected,H,C
+inc019,1004119,Unexpected drop in efficiency,M,I
+inc020,1004120,Status LED blinking red,H,N
+inc021,1004101,Grid frequency mismatch,M,C
+inc022,1004102,Device not responding to commands,H,I
+inc023,1004103,Ambient temperature sensor failure,M,N
+inc024,1004104,Incorrect firmware version detected,L,C
+inc025,1004105,Unauthorized access attempt logged,H,N
+inc026,1004106,Panel shading alert triggered,M,I

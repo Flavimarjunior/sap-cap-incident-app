@@ -1,0 +1,24 @@
+ID,customer_ID,city,postCode,streetAddress
+17e00347-dc7e-4ca9-9c5d-06ccef69f064,1004155,Rome,00164,Piazza Adriana
+d8e797d9-6507-4aaa-b43f-5d2301df5135,1004161,Munich,80809,Olympia Park
+ff13d2fa-e00f-4ee5-951c-3303f490777b,1004100,Walldorf,69190,Dietmar-Hopp-Allee
+a1e00347-dc7e-4ca9-9c5d-06ccef69f001,1004101,Berlin,10115,Unter den Linden
+a2e00347-dc7e-4ca9-9c5d-06ccef69f002,1004102,Paris,75008,Avenue des Champs-Élysées
+a3e00347-dc7e-4ca9-9c5d-06ccef69f003,1004103,London,W1A 1AA,Baker Street
+a4e00347-dc7e-4ca9-9c5d-06ccef69f004,1004104,Madrid,28013,Gran Vía
+a5e00347-dc7e-4ca9-9c5d-06ccef69f005,1004105,Lisbon,1100-179,Rua Augusta
+a6e00347-dc7e-4ca9-9c5d-06ccef69f006,1004106,New York,10001,5th Avenue
+a7e00347-dc7e-4ca9-9c5d-06ccef69f007,1004107,Tokyo,100-0005,Marunouchi
+a8e00347-dc7e-4ca9-9c5d-06ccef69f008,1004108,São Paulo,01000-000,Avenida Paulista
+a9e00347-dc7e-4ca9-9c5d-06ccef69f009,1004109,Buenos Aires,C1001,Florida Street
+b1e00347-dc7e-4ca9-9c5d-06ccef69f010,1004110,Amsterdam,1012JS,Damrak
+b2e00347-dc7e-4ca9-9c5d-06ccef69f011,1004111,Prague,11000,Wenceslas Square
+b3e00347-dc7e-4ca9-9c5d-06ccef69f012,1004112,Vienna,1010,Stephansplatz
+b4e00347-dc7e-4ca9-9c5d-06ccef69f013,1004113,Brussels,1000,Grand Place
+b5e00347-dc7e-4ca9-9c5d-06ccef69f014,1004114,Zurich,8001,Bahnhofstrasse
+b6e00347-dc7e-4ca9-9c5d-06ccef69f015,1004115,Oslo,0155,Karl Johans gate
+b7e00347-dc7e-4ca9-9c5d-06ccef69f016,1004116,Stockholm,11120,Drottninggatan
+b8e00347-dc7e-4ca9-9c5d-06ccef69f017,1004117,Helsinki,00100,Mannerheimintie
+b9e00347-dc7e-4ca9-9c5d-06ccef69f018,1004118,Copenhagen,1550,Strøget
+c1e00347-dc7e-4ca9-9c5d-06ccef69f019,1004119,Athens,10557,Syntagma Square
+c2e00347-dc7e-4ca9-9c5d-06ccef69f020,1004120,Istanbul,34433,İstiklal Caddesi
